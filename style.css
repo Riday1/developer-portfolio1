@@ -16,6 +16,7 @@ h1 {
 
 }
 
+
 .section_1 {
     display: flex;
     background-image: url(images/top-banner.png);
@@ -57,4 +58,43 @@ h1 {
 
     ;
 
+}
+
+.bottom_banner {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 80px;
+
+    ;
+}
+
+.full-stack-baby-web {
+    display: flex;
+    ;
+
+}
+
+.both {
+    width: 40%;
+    ;
+    box-shadow: 2px 2px 15px grey;
+    margin: 5%;
+    padding-left: 25px;
+
+}
+
+#full-stack {
+    border-left: 7px solid orange;
+    ;
+}
+
+#baby-web {
+    border-left: 7px solid blue;
+}
+
+
+footer p {
+    text-align: center;
+    ;
 }
