@@ -19,7 +19,15 @@ h1 {
 .section_1 {
     display: flex;
     background-image: url(images/top-banner.png);
-    background-repeat: no-repeat;S
+    background-repeat: no-repeat;
+
+}
+
+.section_2 {
+    display:flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
 }
 
 .half_width {
